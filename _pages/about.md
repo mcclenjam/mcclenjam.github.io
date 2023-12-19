@@ -17,7 +17,7 @@ I plan on using this site as a platform for research/working papers by me, as we
 
 Research interests
 ======
-My research interests mainly concern party competition, political behavior, and elections, all investigated through the application of quantitative methods
+My research interests mainly concern party competition, political behavior, and elections, all investigated through the application of quantitative methods. More specifically, I am interested in the causes and consequences of issue positions and emphasis taken by parties/candidates across the political spectrum. 
 
 Getting started
 ======
