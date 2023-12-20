@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jamie McClenaghan"
-  avatar           : "profiler.png"
+  avatar           : "/images/profiler.png"
   bio              : "Location and links"
   location         : "Dublin/Belfast"
   employer         :
