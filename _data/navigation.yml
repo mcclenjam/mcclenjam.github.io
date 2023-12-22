@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Portfolio"
-    url: /portfolio.md/
+    url: ../portfolio.md
         
   - title: "CV"
     url: http://mcclenjam.github.io/files/McClenaghanJamieCV.pdf
