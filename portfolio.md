@@ -8,5 +8,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   <a href="pdf-link-url" style="text-decoration: none; color: #00008B; font-weight: bold; font-size: 0.8em;">PDF</a> &nbsp;|&nbsp;
-  <a href="https://github.com/mcclenjam/IrishPolPolicyDocs" style="text-decoration: none; color: #00008B; font-weight: bold; font-size: 0.8em;">Data and Code</a>
+  <a href="https://github.com/mcclenjam/IrishPolDoc" style="text-decoration: none; color: #00008B; font-weight: bold; font-size: 0.8em;">GitHub repo</a>
 </p>
