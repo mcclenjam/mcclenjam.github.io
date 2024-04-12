@@ -4,7 +4,7 @@ title: "Portfolio"
 
 ## Irish Political Policy Document Database
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This package was created to keep track of all those Irish party policy documents published that are not alternative budgets or manifestos, but instead the documents created by political parties which give us a more detailed insight as to their priorities. The aim of this package was to make these documents accessible to others in one place, as well as to form the basis of possible future research.
 
 <p>
   <a href="https://github.com/mcclenjam/IrishPolDoc" style="text-decoration: none; color: #00008B; font-weight: bold; font-size: 0.8em;">GitHub repo</a>
