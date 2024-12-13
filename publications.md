@@ -10,7 +10,7 @@ The rise of populism has been a topic which has attracted much attention in the 
 
 <p>
   <a href="https://mcclenjam.github.io/files/McClenaghanJamieIPS2024.pdf" style="text-decoration: none; color: #00008B; font-weight: bold; font-size: 0.8em;">PDF</a> &nbsp;|&nbsp;
-  <a href="https://github.com/mcclenjam/IrishPolPolicyDocs" style="text-decoration: none; color: #00008B; font-weight: bold; font-size: 0.8em;">Data and Code</a>
+  <a href="https://github.com/mcclenjam/IrishPolPolicyDocs" style="text-decoration: none; color: #00008B; font-weight: bold; font-size: 0.8em;">Data and Code; Coming soon</a>
 </p>
 
 Recommended citation: McClenaghan, J. (2024). "The media and left-populist dominance; an analysis of coverage of Sinn Féin during the 2020 Irish general election", <i>Journal 1</i> 1(1), pp. 1 - 30.
