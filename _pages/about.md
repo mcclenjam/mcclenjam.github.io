@@ -17,4 +17,4 @@ I plan on using this site as a platform for research/working papers by me, as we
 
 Research interests
 ======
-My research interests mainly concern party competition, political behavior, and elections, all investigated through the application of quantitative methods. More specifically, I am interested in the consequences of issue vs. emphasis-driven changes undertaken by parties/candidates across the political spectrum, in terms of effect on the overall electorate, as well as by individual characteristics.  
+My research interests mainly concern party competition, political behavior, and elections, all investigated through the application of quantitative methods. More specifically, I am interested in the consequences of issue- vs. emphasis-driven changes undertaken by parties/candidates across the political spectrum, in terms of their effect on the overall electorate, as well as by individual characteristics.  
