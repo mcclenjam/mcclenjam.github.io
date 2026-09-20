@@ -3,10 +3,32 @@ title: "Publications"
 ---
 ## Peer-Reviewed Journal Publications
 
-## Working Papers
-### The media and Northern European Populists: a novel approach to measuring media responsiveness to Sinn Féın using LLMs
+## Under Review
+### Say It Like You Mean It: The Varied Effects of Emphasis- and Opinion-Based Change on Voter Behaviour
+Shifting political party positions are a hallmark of parties&#39; strategic behavior in competitive
+democratic elections, and whilst a substantial literature documents systematic differences in
+how these positional shifts are carried out, we know comparatively little about their varied
+electoral implications. Building on the established distinction between emphasis-based and
+confrontational modes of position-taking, this paper asks whether the manner in which a party
+adjusts its programme conditions the electoral returns it secures. To do so, we assemble the
+most up-to-date and comprehensive combined collection of election panel studies yet compiled,
+harmonizing just under 16,000 voters across 175 unique party-elections. We pair this with a
+novel measurement strategy in which an open-source large language model categorizes
+manifesto content, yielding positional and salience-based measures of party positions across a
+wide range of policy issues. Using quantitative methods that link aggregate positional movement
+to individual-level patterns of vote switching, we test for an associational relationship between
+the two. Results show that parties engaging in salience-based shifts retain greater core-party
+voter cohesion, albeit at the expense of potential to expand their electoral coalition, whereas the
+more common positional shifts shed core-party voters whilst attracting previously unattached
+voters. Alongside broader findings concerning the role of demographic attributes in the
+propensity for vote-switching, these carry broader implications for how we measure the electoral
+success of party positional shifts, and for electoral competition in an era of increasing voter
+volatility and partisan dealignment.
 
-Research concerning left-populism has paled in comparison to its right-equivalent, even more so when discussing electorally successful Northern European left-populists, which is to the detriment of our broader understanding of populism in its ideological and geographical varieties. In this paper, we propose an approach to studying Northern European left-populists' reception in the media landscape - often deemed critical for wider populist party fortunes - when they enjoy moderate to high levels of success. This approach is grounded in theories which largely center around the notion of media responsiveness to so-called "outsider politicians". The case study used to explore the topic in this paper concerns that of the Irish political party Sinn Féin, largely defined by it's republicanism and left-populism, from 2020 to 2024, encompassing a period in which the party polled at varying levels of success, through a quantitative analysis utilizing polling data and media sentiment from a variety of novel print and online publications, annotated with Large Language Models (LLMs). Results show that whilst there is no relationship between opinion-poll standing on subsequent media sentiment towards left-populists, there does appear to be an effect on the basis of publication type. These findings contribute to the existing literature on left-populist media coverage, and owing to limitations outlined in this paper there are avenues for further research on this topic.
+## Working Papers
+### Democrats Through a Mirror, Darkly: Variation in Voter Evaluations of Independent U.S. Senate Candidates
+
+In an era of hyper-partisanship, as voters have become increasingly unwilling to look beyond party labels to evaluate candidates on the basis of their stances on issues alone, parties have devised a strategy to counter this and deliver politically optimal outcomes for themselves. U.S. Democrats have begun to support independent candidates against incumbent Republicans due to shared issue priorities and an opportunity to strategically reduce their national opponents' political advantage without the damage inflicted by association with a party label. However, owing to the novelty of these candidacies, within the contemporary political environment, little research has examined them or the mechanisms through which they achieve electoral support. I argue that voter attitudes toward these independent candidates are shaped by the structural nature of their relationship to both state and national parties, as well as differences in issue emphasis, with a particularly critical view of elite-middle position-taking. Utilizing six exploratory focus groups comprising 50 voters across Nebraska and Montana, I conduct a comparative case study of two independent U.S. Senate campaigns in the 2026 elections, identifying differences in how voters perceived strategies and exploring how voters express a desire for both truly independent candidacies, free from tangible links to political parties, and emphasis on popular issues. I find that a formal Democratic candidate in the same race as an independent one paradoxically increases independent brand strength despite weakening the independent vote and that candidate emphasis on their elite-middle positions, rather than on issues that command median-voter support, negatively impacts voter evaluations.
 
 <p>
   <a href="https://mcclenjam.github.io/files/McClenaghanJamieIPS2024.pdf" style="text-decoration: none; color: #00008B; font-weight: bold; font-size: 0.8em;">PDF</a> &nbsp;|&nbsp;
