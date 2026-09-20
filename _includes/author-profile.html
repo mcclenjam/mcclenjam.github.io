@@ -37,10 +37,10 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
-      {% if author.bluesky %}
+{% if author.bluesky %}
   <li>
     <a href="https://bsky.app/profile/{{ author.bluesky }}">
-      <i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky
+      <i class="fas fa-fw fa-cloud icon-pad-right" aria-hidden="true"></i>Bluesky
     </a>
   </li>
 {% endif %}
